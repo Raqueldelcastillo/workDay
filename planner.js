@@ -24,7 +24,15 @@ $(document).ready(function () {
   // when someone loads the page
   // if there is data in localStorage
   // ex: localStorage.getItem('9AM')
-  $('#desc-9').val(localStorage.getItem('hour-9'))
+  $("#desc-9").val(localStorage.getItem("hour-9"));
+  $("#desc-9").val(localStorage.getItem("hour-10"));
+  $("#desc-9").val(localStorage.getItem("hour-11"));
+  $("#desc-9").val(localStorage.getItem("hour-12"));
+  $("#desc-9").val(localStorage.getItem("hour-13"));
+  $("#desc-9").val(localStorage.getItem("hour-14"));
+  $("#desc-9").val(localStorage.getItem("hour-15"));
+  $("#desc-9").val(localStorage.getItem("hour-16"));
+  $("#desc-9").val(localStorage.getItem("hour-17"));
   // we can display that data to the page
 });
 //Figure out how to make a block ofr every hour from 9am to 5pm inclusive.
