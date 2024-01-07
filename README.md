@@ -1,3 +1,18 @@
+
+Thanks to my tutor I was able to get more understaning for this challenge.
+I have not finished it as I need to review a few more things but this is what I can deployed at the moment. 
+I have add some coding into CSS for the classes 
+I have create a file for JS and add some fuction and Jquery to it
+I have also add div to create containers for the timetable
+
+
+
+
+
+
+
+
+
 # Third-Party APIs: Work Day Scheduler
 
 ## Your Task
